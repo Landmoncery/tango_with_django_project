@@ -28,7 +28,7 @@ SECRET_KEY = 'tvm*olrcylvw0+!vvof0tq6j_(skvzq4m!y&bo$!$zzbt2$)t2'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+LOGIN_URL = 'rango:login'
 
 # Application definition
 
